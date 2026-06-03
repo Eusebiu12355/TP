@@ -1,4 +1,4 @@
-// 2048.h
+
 #ifndef GAME_H
 #define GAME_H
 
