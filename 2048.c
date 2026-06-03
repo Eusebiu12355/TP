@@ -1,4 +1,4 @@
-// 2048.c
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "2048.h"
