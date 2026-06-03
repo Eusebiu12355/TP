@@ -20,3 +20,5 @@ Oprirea jocului la obtinerea valorii tinta(nu stiu daca ar trebuie sa se opreasc
 Oprirea jocului cand tabla este plina si nu mai sunt mutari
 
 Afisarea scorului curent
+
+Interfata grafica
